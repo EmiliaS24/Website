@@ -1,0 +1,14 @@
+The github page link- https://github.com/EmiliaS24/End-User-computing-assignment
+   Website page link- file:///C:/Users/emili/Downloads/Week%202%20-%20HTML%20and%20CSS%20-20211110%20(2)/Week%202%20-%20HTML%20and%20CSS%20-extracted%20folder/Lab%202%20%20HTML%20and%20CSS/index.html
+
+1. I have changed the font size of the table data Emilia Swieca from 3 to 6   (HTML)
+2. I have added dotted borders in the colour DeepPink around headers 'Work Experience' and 'Past Projects' (CSS)
+3. I have added a blue text shadow effect on headings 4 (h4) (CSS)
+4. I have changed the Skills unordered list (ul) to ordered list (ol) (HTML)
+5. I have created breaks <br> and shifted the Contact details further below (HTML)
+6. I have added an image reflection below the original image so that it mirrors the original image (CSS)
+7. I added Emojis and a quote at the bottom of the page with a blue dotted border (HTML)
+8. I added contact links such as Indeed and Gmail at the bottom of the website for easy access to the user (HTML)
+9. I changed the style of the font h4 (in white and blue) from verdana to arial (CSS)
+10. I changed the colour of the background from Pink to Magenta (CSS)
+  

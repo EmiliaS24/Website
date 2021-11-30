@@ -1,0 +1,83 @@
+.logocss{
+  border-radius:25px;
+}
+
+body{
+    background-color: Magenta;
+    height: auto;
+    margin: 0;  
+}
+tr {
+    font-family: georgia;
+    font-size: 14px;
+}
+table{
+    width: 1000px;
+    margin-left: 150px;
+    margin-top: 45px;
+    background-color: #FEC6FA;
+}
+
+h4{
+   font-family: arial;
+   font-size: 14px;
+   color: white;
+}
+/* Page content */
+.content {
+  padding: 16px;
+}
+h3{
+font-family: verdana;
+   font-size: 14px;
+   color: white;
+}
+
+ul {
+  display: inline-block;
+  *display: inline;
+  zoom: 1
+}
+
+
+/* Zoom on Hover : https://www.w3schools.com/howto/howto_css_zoom_hover.asp*/
+* {
+    box-sizing: border-box;
+  }
+  .zoom {
+    transition: transform .2s;
+    width: 257px;
+    height: 260px;
+    margin: 0 auto;
+    background-image: url("img/profilehtml.png");
+  }
+
+  .zoom:hover {
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1.5); 
+  }
+
+h1 {
+  border: 5px dotted blue;
+}
+
+h2 {
+  border: 4px dotted DeepPink;
+}
+
+div {
+  border: double;
+}
+
+
+
+h4 {
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+
+img {
+  -webkit-box-reflect: below;
+}
+
